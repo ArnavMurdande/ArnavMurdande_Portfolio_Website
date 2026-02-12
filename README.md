@@ -5,7 +5,7 @@
 
 Welcome to my personal portfolio repository! This project is a modern, high-performance web application designed to showcase my journey as an **AI & Software Engineer**. It features a futuristic aesthetic with interactive elements, 3D visualizations, and a responsive design that adapts seamlessly across appliances.
 
-**Live Demo:** [Coming Soon]
+**Live Demo:** [https://arnav-murdande-portfolio-website.vercel.app/]
 
 ## 👨‍💻 About Me
 
