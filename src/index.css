@@ -1,0 +1,32 @@
+/* Hide default cursor */
+*,
+*::after,
+*::before {
+  cursor: none !important;
+}
+
+/* 2. Tailwind Directives come second */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 3. Global Styles */
+body {
+  min-height: 100vh;
+  background: #050505;
+  color: white;
+  overflow-x: hidden;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+body,
+html {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+  overflow-x: hidden; /* Ensures native scroll is gone */
+}
