@@ -1,6 +1,5 @@
 # Portfolio Website | Arnav Murdande
 
-![Portfolio Preview](src/assets/images/Laptop.png)
 
 ## 🚀 Overview
 
@@ -50,12 +49,23 @@ _Tech: Node.js, Express, PostgreSQL, React_
 - Optimized database queries for high performance and transaction safety.
 - Achieved 95% test coverage with automated CI pipelines.
 
-### LLM Performance Analysis Dashboard
+### [AI-Powered Resume Screening with RAG](https://github.com/ArnavMurdande/Resume-screener) 
+#### [Live Preview](https://resume-screener-tau.vercel.app/)
 
-_Tech: Python, Power BI, Plotly_
+_Tech: Python, FastAPI, React, Supabase, Gemini 3_
 
-- Created dashboards to track model accuracy, inference latency, and cost metrics.
-- Implemented anomaly detection for AI model compliance and reliability.
+- Built an intelligent resume screening platform using RAG to semantically match candidates to jobs beyond keywords.
+- Designed a PGvector + Gemini embedding pipeline for evidence-backed scoring, recruiter chat with grounded responses, and anomaly-safe retrieval.
+- Deployed a scalable full-stack system with automated evaluation and rate-limit resilient APIs.
+
+### [Fraud Detection System with Synthetic Financial Transactions](https://github.com/ArnavMurdande/fraud-detection-system)
+
+_TechPython, XGBoost, SHAP, Neo4j_
+
+- Built an end-to-end fraud detection pipeline using synthetic transaction data to simulate real-world attack patterns.
+- Engineered time-aware behavioral features and trained a cost-sensitive XGBoost model achieving 0.98 ROC-AUC.
+- Implemented SHAP-based explainability for regulatory transparency and added graph analytics to detect fraud rings and shared-device abuse.
+- Designed a modular architecture for real-time scoring with feedback-driven retraining
 
 ### Multilingual LLM Summarization System
 
@@ -70,7 +80,7 @@ _Tech: Python, Hugging Face, Transformers_
 
 - **Degree:** B.Tech in Computer Engineering
 - **Graduation:** August 2026
-- **CGPA:** 7.9 | **Current Semester SGPA:** 8.89
+- **CGPA:** 8.0 | **Current Semester SGPA:** 9.08
 
 ## 🏆 Achievements & Certifications
 
@@ -81,23 +91,7 @@ _Tech: Python, Hugging Face, Transformers_
 - **AWS Academy Graduate:** Cloud Foundations & Architecting - [View](https://www.credly.com/badges/fa6a1737-6e7e-4a4c-bf73-3133118fb1f5/public_url)
 - **IBM Full Stack Software Developer:** React, Node.js, Docker - [View](https://www.coursera.org/account/accomplishments/professional-cert/X23EPEI9HBPR)
 
-## 📦 Installation & Setup
 
-To run this portfolio locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/ArnavMurdande/ArnavMurdande_Portfolio_Website.git
-
-# Navigate to the project directory
-cd ArnavMurdande_Portfolio_Website
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-```
 
 ## 📄 License
 
