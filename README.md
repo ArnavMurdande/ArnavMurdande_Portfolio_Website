@@ -36,9 +36,9 @@ I am an **AI & Software Engineer** based in Mumbai, with a passion for building 
 
 ### [Intelligent Agent Workflow (CodeWithMee)](https://github.com/ArnavMurdande/CodeWithMee)
 
-_Tech: Java, Spring Boot, React, Gemini 2.5_
+_Tech: Java, Spring Boot, React, Gemini 3_
 
-- Built an agentic workflow using Gemini 2.5 for interactive coding assistance.
+- Built an agentic workflow using Gemini 3 for interactive coding assistance.
 - Designed automated reasoning steps and context-aware instruction generation.
 - Integrated IDE and challenge modules for personalized AI guidance.
 
